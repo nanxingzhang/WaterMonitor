@@ -1,0 +1,1 @@
+"./src/testUART.obj" "./src/UCS_INIT.obj" "./src/UART.obj" "./src/Turbidity.obj" "./src/PH-T.obj" "./src/LCD1602.obj" "./src/LCD12864.obj" "./src/KEY_SIG.obj" "./src/DS18B20.obj" "./src/DAC8571.obj" "./src/BLUETOOTH.obj" "./src/ADS1118.obj" "./src/ADC12_INIT.obj" "./main.obj" "../lnk_msp430f5529.cmd" -l"libmath.a" -l"libc.a" 
